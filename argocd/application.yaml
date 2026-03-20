@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOURGITHUBUSERNAME/bookstore-manifests.git
+    repoURL: https://github.com/amanshukla0903/bookstore-manifests.git
     targetRevision: main
     path: .
     directory:
