@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: 424180637140.dkr.ecr.ap-south-1.amazonaws.com/bookstore-frontend:v4
+          image: 424180637140.dkr.ecr.ap-south-1.amazonaws.com/bookstore-frontend:v5
           ports:
             - containerPort: 80
           resources:
